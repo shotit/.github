@@ -1,3 +1,5 @@
 # Shotit :sparkles:
 
-Blazing-fast and compute-efficient screenshot-to-video search engine (Not ChatGPT). Shot!
+Shotit is a screenshot-to-video search engine
+tailored for TV & Film, blazing-fast and
+compute-efficient.
