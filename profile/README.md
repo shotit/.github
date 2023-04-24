@@ -3,3 +3,5 @@
 Shotit is a screenshot-to-video search engine
 tailored for TV & Film, blazing-fast and
 compute-efficient.
+
+Under rapid development. Not ready yet.
